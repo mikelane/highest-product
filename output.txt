@@ -1,0 +1,10 @@
+Expected: 1      Actual: 1       PASS   
+Expected: Error  Actual: Error   PASS  ERROR: input_array has fewer than 2 items!
+Expected: 12     Actual: 12      PASS   
+Expected: 36     Actual: 36      PASS   
+Expected: 900    Actual: 900     PASS   
+Expected: 300    Actual: 300     PASS   
+Expected: 30     Actual: 30      PASS   
+Expected: 9      Actual: 9       PASS   
+Expected: 60     Actual: 60      PASS   
+Expected: 5000   Actual: 5000    PASS   
